@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">My Application2</string>
-    <string name="sum">Посчитать</string>
+    <string name="app_name" translatable="false">My Application2</string>
+    <string name="sum" translatable="false">Посчитать</string>
 </resources>
